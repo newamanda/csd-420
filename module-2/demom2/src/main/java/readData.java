@@ -1,3 +1,8 @@
+//Amanda New
+//CSD420-A311
+//Module 2.2
+//https://github.com/newamanda/csd-420.git
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

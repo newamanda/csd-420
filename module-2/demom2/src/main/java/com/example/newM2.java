@@ -1,3 +1,8 @@
+//Amanda New
+//CSD420-A311
+//Module 2.2
+//https://github.com/newamanda/csd-420.git
+
 package com.example;
 
 import java.io.BufferedWriter;
