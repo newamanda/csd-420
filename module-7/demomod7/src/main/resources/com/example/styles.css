@@ -1,0 +1,27 @@
+#circle1 {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#blank-circle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#border {
+    -fx-stroke:black;
+    -fx-fill: transparent;
+    -fx-stroke-width:3;
+}
+
+#red {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#green {
+    -fx-fill: green;
+    -fx-fill: green;
+}
