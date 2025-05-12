@@ -16,9 +16,9 @@ public class Select5{
 
       Class.forName("com.mysql.cj.jdbc.Driver");
 
-      String url = "jdbc:mysql://localhost:3306/database33?";
+      String url = "jdbc:mysql://localhost:3306/databasedb?";
 
-      con = DriverManager.getConnection(url + "user=student33&password=pass");
+      con = DriverManager.getConnection(url + "user=student1&password=pass");
 
       System.out.println("Connection established - now executing a select");
 
